@@ -1,0 +1,46 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.form-label-1 {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+.form-input {
+  display: inline-block;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+}
+
+.form-label-2 {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+.form-value {
+  display: block;
+  margin-top: 0.5rem;
+  font-style: italic;
+  font-size: 2rem;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin: 2rem auto;
+  padding: 1rem;
+  gap: 1rem;
+}
+
+button {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  color: #ffffff;
+  background-color: #007bff;
+}
